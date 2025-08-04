@@ -26,6 +26,10 @@ h1{
     font: size 40px; ;
 }
 p{
-    fonte: size 20px;
+    font: size 20px;
 }
 
+.categoria-videos{
+    display:flex;
+    ovrloow -x:auto
+}
